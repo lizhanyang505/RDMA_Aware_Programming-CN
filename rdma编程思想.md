@@ -475,3 +475,4 @@ L_key:注册到这个缓冲区的MR的本地标志。
    设备的工作能力能使用户了解已打开设备支持的特性（APM,SRQ）和能力。
 	
    示例程序中的实现在 **7.1.4 resources_create.**
+   https://www.bbsmax.com/A/GBJrNrDBJ0/
